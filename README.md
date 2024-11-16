@@ -16,9 +16,6 @@ If we enable each J-K flip-flop to toggle based on whether or not all preceding 
 
 ![image](https://github.com/naavaneetha/SYNCHRONOUS-UP-COUNTER/assets/154305477/d5db3fa0-e413-404c-b80e-b2f39d82e7e8)
 
-**TRUTH TABLE**
-
-![image](https://github.com/user-attachments/assets/4314bacd-84f3-4c1b-bce2-b5383c481017)
 
 
 ![image](https://github.com/naavaneetha/SYNCHRONOUS-UP-COUNTER/assets/154305477/52cb61eb-d04b-442d-810c-31185a68410b)
@@ -67,6 +64,10 @@ endmodule
 
 ![image](https://github.com/user-attachments/assets/00a6b832-446d-4645-86ec-e4475873e0eb)
 
+
+**TRUTH TABLE**
+
+![image](https://github.com/user-attachments/assets/4314bacd-84f3-4c1b-bce2-b5383c481017)
 
 **RESULTS**
 
